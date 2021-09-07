@@ -1,10 +1,8 @@
 - 🎖 泡杯茶，一道leetcode刷一天
 
-<br />
 
-<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" height="275" /></a>
+<a href=""><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" height="275" /></a>
 
-<br />
 
 ## Languages and Tools:
 
