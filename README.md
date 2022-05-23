@@ -1,4 +1,4 @@
-- 🎖 泡杯茶，一道leetcode刷一天
+### Hi there 👋
 
 
 <!-- <a href=""><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a> -->
