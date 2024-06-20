@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 I'm Donglin Xie.
-- 👨‍🎓 Graduate student at Zhejiang University
+- 👨‍🎓 Graduated student at Zhejiang University
 - 🍒 Love backend-end development, open source & competitive programming
-- 🍉 I'am currently learning algorithm
+- 🍉 I'am currently learning algorithm & Rust
 <!-- <a href=""><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a> -->
 
 
